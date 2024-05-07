@@ -1,0 +1,6 @@
+# Template requirements
+datalab-framework
+streamlit>=1.26.0
+JSON-log-formatter==0.5.2
+inotify==0.2.10
+# Application requirements
